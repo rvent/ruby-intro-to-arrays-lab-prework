@@ -15,5 +15,5 @@ def third_element(array)
 end
 
 def last_element(array)
-  array[0]
+  array[-1]
 end
